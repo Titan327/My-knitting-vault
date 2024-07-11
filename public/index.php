@@ -1,3 +1,3 @@
 <?php
 include "./component/head.php";
-echo "hello world";
+include "./component/header.php";
