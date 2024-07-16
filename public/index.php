@@ -1,3 +1,3 @@
 <?php
-
-echo "hello world";
+include "./component/head.php";
+include "./component/header.php";
